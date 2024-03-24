@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.headerCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+  border-style: solid;
+  border-width: 0.2px;
+}
+.headerLogo {
+  width: 20%;
+  height: 34px;
+}
+.navItems {
+  display: flex;
+  justify-content: space-between;
+  width: 40%;
+}
+.listItems {
+  width: 70%;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

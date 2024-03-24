@@ -1,0 +1,37 @@
+/* Write your CSS code here */
+.loginPage {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.loginImg {
+  width: 40%;
+}
+.loginCont {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px;
+  width: 40%;
+}
+.logo {
+  width: 50%;
+}
+.formCont {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.loginBtn {
+  background-color: blue;
+  border-radius: 6px;
+  padding: 4px;
+  margin: 10px;
+  color: white;
+}
+.error {
+  color: red;
+}

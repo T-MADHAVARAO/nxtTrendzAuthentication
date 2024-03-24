@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.homeBg {
+  width: 100vw;
+  height: auto;
+}
+.productCont {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+  align-items: center;
+}
+.productImg {
+  width: 40%;
+}
